@@ -1,0 +1,9 @@
+{
+    "name": "insomnia-plugin-randomDocumentNumber",
+    "version": "1.0.0",
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "Random Document Number Generator",
+        "description": "Generates random document numbers. Currently only supports CPF/CNPJ."
+    }
+}
